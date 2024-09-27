@@ -6,7 +6,7 @@ usage
 
 ```
    port add <port>
-   port add <port>
+   port remove <port>
    port refresh <port>
 
 ```
