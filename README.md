@@ -4,7 +4,10 @@ paste this in you're linux terminal
 
 usage
 
-```port add <port>
+```
    port add <port>
-   port refresh <port>```
+   port add <port>
+   port refresh <port>
+
+```
   
