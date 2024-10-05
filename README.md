@@ -1,3 +1,9 @@
+if git is not isntalled run
+
+```
+sudo apt install git -y
+```
+
 paste this in you're linux terminal 
 
 ```
